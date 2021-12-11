@@ -1,4 +1,4 @@
-# tspoon4.github.io
+# tspoon blog
 
 ## 2021-12-11 Amazing software
 I have infinite admiration for these pieces of software.  
@@ -8,6 +8,6 @@ I have infinite admiration for these pieces of software.
 4. [Renderdoc](https://renderdoc.org/)
 5. [Wine](https://www.winehq.org/)
 6. [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
-7. C/C++: Eigen, OpenCV, Vulkan, ImGui
-8. Python: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib
-9. CLI: gcc, git, rsync, curl
+7. **C/C++**: Eigen, OpenCV, Vulkan, ImGui
+8. **Python**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib
+9. **CLI**: gcc, git, rsync, curl
