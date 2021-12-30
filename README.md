@@ -1,4 +1,15 @@
-# tspoon blog
+## Entries
+* [2021-12-31 Code quality](#2021-12-31-code-quality)
+* [2021-12-11 Amazing software](#2021-12-11-amazing-software)
+
+## 2021-12-31 Code quality
+Code quality is often defined with aspects difficult to measure.  
+We should promote and value code with:  
+* Minimal API surface
+* Minimal set of dependencies
+* Minimal amount of LOC
+* Fast compilation time
+* Energy efficient execution
 
 ## 2021-12-11 Amazing software
 I have infinite admiration for these pieces of software.  
