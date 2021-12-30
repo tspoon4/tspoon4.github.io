@@ -1,3 +1,5 @@
+<style>body { background-color:black; color:grey;}</style>
+
 ## Entries
 * [2021-12-31 Code quality](#2021-12-31-code-quality)
 * [2021-12-11 Amazing software](#2021-12-11-amazing-software)
