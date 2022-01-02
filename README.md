@@ -6,7 +6,7 @@
 
 ## 2021-12-31 Code quality
 Code quality is often defined with aspects difficult to measure.  
-We should promote and value code with:  
+We should instead value and promote code with:  
 * Minimal API surface
 * Minimal set of dependencies
 * Minimal amount of LOC
