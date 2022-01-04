@@ -8,7 +8,7 @@ A list of topics with pointers to start reflecting...
 * [2021-12-11 Amazing software](#2021-12-11-amazing-software)
 
 ## 2022-01-04 Everything is a FSM
-Everything is a Finite State Machine or a hierarchy of Finite State Machines from a higher level perspective.  
+Everything is a Finite State Machine or a hierarchy of Finite State Machines from a higher perspective.  
 FSM transitions and states should be made obvious when programming by using FSM related designs.  
 * Input messages and their processing in GUI applications
 * Game states (loading, menu, gameplay, cutscene...) in games
