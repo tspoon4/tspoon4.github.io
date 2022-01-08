@@ -17,16 +17,14 @@ FSM transitions and states should be made obvious when programming by using FSM 
 * Animation states (idle, walk, run, jump...) for character animation
 * A simple door (closed, opening, opened, closing, broken...)
 
-```
-switch(state)  
-{  
-	case STATE_0: // This is a state  
-		...  
-		state = STATE_1; // This is a transition  
-		break;  
-	...  
-}
-```
+> switch(state)  
+> {  
+> >	case STATE_0: // This is a state  
+> > > ...  
+> > > state = STATE_1; // This is a transition  
+> > > break;  
+> > ...  
+> }  
 
 ## 2021-12-31 Code quality
 Code quality is often defined with aspects difficult to measure.  
