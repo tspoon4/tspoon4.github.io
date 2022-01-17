@@ -1,12 +1,22 @@
-<style>body { background-color:black; color:grey;}</style>
+<style>body { background-color:black; color:grey; }</style>
 
 [https://github.com/tspoon4](https://github.com/tspoon4)  
 A list of topics with pointers to start reflecting...
 
 ## Entries
+* [2022-01-17 Everything is a Table](#2022-01-17-everything-is-a-table)
 * [2022-01-04 Everything is a FSM](#2022-01-04-everything-is-a-fsm)
 * [2021-12-31 Code quality](#2021-12-31-code-quality)
 * [2021-12-11 Amazing software](#2021-12-11-amazing-software)
+
+## 2022-01-17 Everything is a Table
+A big part of everyday's work is actually about producing data tables, either manually or automatically.  
+I often review verbose documents that miss the target: an exhaustive list of items so we can draw correct conclusions.  
+Like any table, it is very important to carefully design the data (i.e columns) so we can extract as much information as possible.  
+* A backlog is a task list used to organize work and create burndown charts (name, priority, estimation, details...)
+* A comparison matrix allows to visualize differences and similarities between products (columns are your feature requirements)
+* Pros and cons tables help you to make decisions (feature, advantages, drawbacks, comments...)
+Maybe this page should be a big markdown table...  
 
 ## 2022-01-04 Everything is a FSM
 Everything is a Finite State Machine or a hierarchy of Finite State Machines from a higher perspective.  
@@ -46,3 +56,4 @@ I have infinite admiration for these pieces of software.
 7. **C/C++**: Eigen, OpenCV, Vulkan, ImGui
 8. **Python**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib
 9. **CLI**: gcc, git, rsync, curl
+
