@@ -12,10 +12,10 @@ A list of topics with pointers to start reflecting...
 ## 2022-01-17 Everything is a Table
 A big part of everyday's work is actually about producing data tables, either manually or automatically.  
 I often review verbose documents that miss the target: an exhaustive list of items so we can draw correct conclusions.  
-Like any table, it is very important to carefully design the data (i.e columns) so we can extract as much information as possible.  
+Like any table, it is very important to carefully design the data (i.e. columns) so we can extract as much information as possible.  
 * A backlog is a task list used to organize work and create burndown charts (name, priority, estimation, details...)
 * A comparison matrix allows to visualize differences and similarities between products (columns are your feature requirements)
-* Pros and cons tables help you to make decisions (feature, advantages, drawbacks, comments...)
+* Pros and cons tables help you to make decisions (feature, advantages, drawbacks, comments...)  
 Maybe this page should be a big markdown table...  
 
 ## 2022-01-04 Everything is a FSM
