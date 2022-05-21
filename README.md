@@ -11,9 +11,9 @@ A list of topics with pointers to start reflecting...
 * [2021-12-11 Amazing software](#2021-12-11-amazing-software)
 
 ## 2022-05-19 NVMe the game changer
-We have lived with slow HDD for a long time. 
-All of the sudden, we get SSD and then NVMe that provides a x40 boost factor to load data. 
-This new support raises multiple challenges in the way we program applications. 
+We have lived with slow HDD for a long time.  
+All of the sudden, we get SSD and then NVMe that provides a x40 boost factor to load data.  
+This new support raises multiple challenges in the way we program applications.  
 * NVMe bandwidth (~3GB/s) is fast compared to the fastest software decompression: keep data uncompressed
 * NVMe bandwidth (1MB/325us) is slow compared to CPU processing: blocking IO still has be avoided
 * Leverage IO libraries that expose asynchronous IO commands such as libaio (Linux), DirectStorage (Windows)
