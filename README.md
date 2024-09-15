@@ -4,11 +4,32 @@
 A list of topics with pointers to start reflecting...
 
 ## Entries
+* [2024-09-15 Amazing technoiogies](#2024-09-15-amazing-technologies)
 * [2022-05-19 NVMe the game changer](#2022-05-19-nvme-the-game-changer)
 * [2022-01-17 Everything is a Table](#2022-01-17-everything-is-a-table)
 * [2022-01-04 Everything is a FSM](#2022-01-04-everything-is-a-fsm)
 * [2021-12-31 Code quality](#2021-12-31-code-quality)
 * [2021-12-11 Amazing software](#2021-12-11-amazing-software)
+
+## 2024-09-15 Amazing technologies
+Some technologies allowed to build revolutionary IT systems.
+As an exercice, here is a attempt to list the most relevant for our industry.
+* [Hash functions](https://en.wikipedia.org/wiki/Hash_function)
+* [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
+* [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+* [Database index](https://en.wikipedia.org/wiki/Database_index)
+* [PageRank](https://en.wikipedia.org/wiki/PageRank)
+* [MapReduce](https://en.wikipedia.org/wiki/MapReduce)
+* [Public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+* [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
+* [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
+* [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control)
+* [The onion router](https://en.wikipedia.org/wiki/Tor_\(network\))
+* [Stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+* [Virtualization](https://en.wikipedia.org/wiki/Virtualization)
+* [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
 
 ## 2022-05-19 NVMe the game changer
 We have lived with slow HDD for a long time.  
