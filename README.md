@@ -12,8 +12,8 @@ A list of topics with pointers to start reflecting...
 * [2021-12-11 Amazing software](#2021-12-11-amazing-software)
 
 ## 2024-09-15 Amazing technologies
-Some technologies allowed to build revolutionary IT systems.
-As an exercice, here is a attempt to list the most relevant for our industry.
+Some technologies allowed to build revolutionary IT systems.  
+As an exercice, here is a attempt to list the most relevant for our industry.  
 * [Hash functions](https://en.wikipedia.org/wiki/Hash_function)
 * [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 * [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
@@ -26,7 +26,7 @@ As an exercice, here is a attempt to list the most relevant for our industry.
 * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
 * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
 * [Distributed version control](https://en.wikipedia.org/wiki/Distributed_version_control)
-* [The onion router](https://en.wikipedia.org/wiki/Tor_\(network\))
+* [The onion router](https://en.wikipedia.org/wiki/Tor_(network))
 * [Stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 * [Virtualization](https://en.wikipedia.org/wiki/Virtualization)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
